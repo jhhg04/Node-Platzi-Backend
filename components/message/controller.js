@@ -1,4 +1,3 @@
-const e = require('express');
 const store = require('./store.js');
 
 function addMessage(user, message) {
